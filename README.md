@@ -37,13 +37,13 @@ Steps to reproduce this project
 2.  The code has "d:/dev/p4/dataset" that will need to be changed to your local directory:
 
     Open the R script `run_analysis.r` using a text editor and change the data file locations
-    to work out of your local folders where you unzippped your data: 
+    to work out of your local folders where you unzippped your data.
  
-3. Use `setwd` function to set the working directory/folder (i.e., the folder where this the R script file is saved and where the result "tidydata.txt" file will be written to.
+3. Use `setwd` function to set the working directory/folder (i.e., the folder where this the R script file is saved and where the output result "tidy.txt" file will be written to.
 
 
 3. Run the R script `run_analysis.r`. 
 
-Outputs produced
+Outputs 
 ----------------
-* Tidy dataset file `DatasetHumanActivityRecognitionUsingSmartphones.txt` (tab-delimited text)
+tidy.txt file

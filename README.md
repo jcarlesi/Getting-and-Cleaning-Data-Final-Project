@@ -1,6 +1,6 @@
 # Getting-and-Cleaning-Data-Final-Project
 
-Project for Getting and Cleaning Data
+ReadMe
 =====================================
 Author: jason carlesi https://github.com/jcarlesi/Getting-and-Cleaning-Data-Final-Project
 
